@@ -1,4 +1,4 @@
-#  :dart: Install instructions  :dart:
+#  :dart: Install Instructions  :dart:
 
 Uses pouch-db. If you do not have pouch-db installed, run "npm install -g pouchdb-server". 
   (https://github.com/pouchdb/pouchdb-server for usage)
@@ -9,7 +9,7 @@ Uses pouch-db. If you do not have pouch-db installed, run "npm install -g pouchd
 
 ## Navigate to newly created directory.
  
- cd darts
+cd darts
 
 ## Install node dependencies.
 
@@ -20,6 +20,7 @@ npm install
 ## Start the app (have pouchdb running) 
 node app.js
 
+Open [localhost port 3000](http://localhost:3000) in your browser.
 
 ## Sample deploy:
 Link to [deployed instance](https://dartleague-waltdakind.c9users.io/)
