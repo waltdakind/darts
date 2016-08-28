@@ -23,6 +23,6 @@ node app.js
 Open [localhost port 3000](http://localhost:3000) in your browser.
 
 ## Sample deploy:
-Link to [deployed instance](https://dartleague-waltdakind.c9users.io/)
+Link to [deployed instance](https://dartleague-waltdakind.c9users.io/).
 
 
